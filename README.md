@@ -2,10 +2,10 @@
 
 I'm a **MERN Stack Developer** focused on building clean, scalable web applications using React, Node.js, Express, and MongoDB.
 
-- 🌍 **Remote work ready** — flexible with timezones and eager to collaborate globally  
-- 🚀 Quick learner, highly motivated, and committed to delivering quality code  
-- 💼 I'm actively exploring **remote opportunities**, especially with global, product-driven teams.  
+- 🚀 Quick learner, highly motivated, and committed to delivering quality code
 - 📍 Based in Bangalore, and open to **hybrid or flexible work models** if the role aligns well.  
+- 🌍 **Remote work ready** — flexible with timezones and eager to collaborate globally  
+- 💼 I'm actively exploring **remote opportunities**, especially with global, product-driven teams.  
   
 ---
 
