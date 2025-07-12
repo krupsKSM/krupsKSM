@@ -43,12 +43,16 @@ I'm a **MERN Stack Developer** focused on building clean, scalable web applicati
 
 ## 📫 Let's Connect!
 
-Feel free to reach out via email or LinkedIn for collaboration or job opportunities.  
+Feel free to reach out via email for collaboration or job opportunities.  
 Excited to bring value to your team and grow as a developer!
 
 ---
 
-Thanks for visiting my profile! 😊
+### 💖 If today feels heavy, please be kind to yourself—you’re doing your best, and that’s more than enough. 🦚
+🌼 Thank you for stopping by my profile. Wishing you moments of calm, strength, and kindness in everything you do. 🤗  🙏
+🕊️
+      
+
 <!--
 **krupsKSM/krupsKSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
