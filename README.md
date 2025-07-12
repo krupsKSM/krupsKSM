@@ -49,7 +49,7 @@ Excited to bring value to your team and grow as a developer!
 ---
 
 ### 💖 If today feels heavy, please be kind to yourself—you’re doing your best, and that’s more than enough. 🦚
-🌼 Thank you for stopping by my profile. Wishing you moments of calm, strength, and kindness in everything you do. 🤗  🙏
+#### 🌼 Thank you for stopping by my profile. Wishing you moments of calm, strength, and kindness in everything you do. 🤗  🙏
 🕊️
       
 
