@@ -4,8 +4,9 @@ I'm a **MERN Stack Developer** focused on building clean, scalable web applicati
 
 - 🌍 **Remote work ready** — flexible with timezones and eager to collaborate globally  
 - 🚀 Quick learner, highly motivated, and committed to delivering quality code  
-- 💼 Actively seeking remote opportunities with competitive compensation and growth potential  
-
+- 💼 I'm actively exploring **remote opportunities**, especially with global, product-driven teams.  
+- 📍 Based in Bangalore, and open to **hybrid or flexible work models** if the role aligns well.  
+  
 ---
 
 ## 🛠️ Tech Stack
