@@ -1,6 +1,6 @@
 # 🙏 Hi, I'm Krupasindhu 👋
 
-I'm a **MERN Stack Developer** focused on building clean, scalable web applications using React, Node.js, Express, and MongoDB
+I'm a **Full-Stack Developer** passionate about crafting scalable web apps and AI-driven solutions with React, Node.js, Python (FastAPI), MongoDB, and cutting-edge LLM integrations.
 
 - 🚀 Quick learner, highly motivated, and committed to delivering quality code
 - 📍 Based in Bangalore, and open to **hybrid or flexible work models** if the role aligns well.  
