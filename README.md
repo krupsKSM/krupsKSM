@@ -27,6 +27,16 @@ I'm a **MERN Stack Developer** focused on building clean, scalable web applicati
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)  
+
+### 🤖 AI & LLMs  
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white) 
+![llamaparse](https://img.shields.io/badge/-llamaparse-ffcc00?style=flat&logo=llama) 
+![LangChain](https://img.shields.io/badge/-LangChain-2F4F4F?style=flat&logo=langchain&logoColor=white) 
+![Vector DB](https://img.shields.io/badge/-Vector_DB-4B0082?style=flat&logo=weaviate) 
+![Prompt Chaining](https://img.shields.io/badge/-Prompt_Chaining-008080?style=flat) 
+![Embeddings](https://img.shields.io/badge/-Embeddings-6A5ACD?style=flat)
 
 ### Tools & Testing
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
@@ -37,6 +47,13 @@ I'm a **MERN Stack Developer** focused on building clean, scalable web applicati
 ---
 
 ## 🚀 Projects & Contributions
+
+-  [**krups-notebookLM**](https://github.com/krupsKSM/krups-notebookLM)  
+ A self-hosted AI research assistant inspired by Google’s NotebookLM.  
+  Chat with your own documents locally using FastAPI + OpenAI API or local LLMs like llamaparse.  
+  Implements advanced AI techniques such as **vector databases for efficient document retrieval**, **prompt chaining for multi-step reasoning**, and **embeddings to understand document semantics deeply**.  
+
+   **Tech stack:** React, FastAPI, Python, MongoDB, Vector DBs, LLMs, OpenAI API, Prompt Chaining, Embeddings
 
 - [ReactJS Interview Questions PR](https://github.com/sudheerj/reactjs-interview-questions/pull/361) — First open source contribution  
 ---
