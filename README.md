@@ -5,7 +5,7 @@ I'm a **Full-Stack Developer** passionate about crafting scalable web apps and A
 - 🚀 Quick learner, highly motivated, and committed to delivering quality code
 - 📍 Based in Bangalore, and open to **hybrid or flexible work models** if the role aligns well.  
 - 🌍 **Remote work ready** — flexible with timezones and eager to collaborate globally  
-- 💼 I'm actively exploring **remote opportunities**, especially with global, product-driven teams.  
+- 💼 I'm actively exploring **remote opportunities**, especially with global, product-driven teams.
   
 ---
 
